@@ -3,13 +3,6 @@ import java.util.Scanner; // importing scanner
 public class Main {
     public static void main(String[] args) {
 
-        /*
-        Testing: here just use some
-        reasonable values that you can inspect the calculations
-        and determine they are correct.  Be sure to check of integer
-        calculations truncating the results.
-         */
-
         // input variables:
         double gallonsOfGas = 0;
         double milesPerGallon = 0;
